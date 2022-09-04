@@ -1,4 +1,4 @@
-# my-yahoo-finance
+# my-yahoo-finance apps ! Try it out 
 
 Try on the app
 
